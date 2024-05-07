@@ -1,0 +1,27 @@
+1990,Total Recall,113,Action,R,7.5,Paul Verhoeven,Ronny Cox,Rachel Ticotin,Marshall Bell,actor 4? Errors:  ExcessFieldsException: there is too many fields In file :Movies1990.csv At line :15
+2991,Hudson Hawk,100,Action,R,5.7,Michael Lehmann,Bruce Willis,James Coburn,Richard E. Grant Errors:  BadYearException: invalid year In file :Movies1991.csv At line :9
+1991,Bill & Ted's Bogus Journey,93,Adventure,PJ,6.2,Peter Hewitt,Keanu Reeves,George Carlin,Alex Winter Errors:  BadRatingException: Invalid Rating In file :Movies1991.csv At line :15
+1991,Hook,333,Adventure,PG,6.7,Steven Spielberg,Robin Williams,Julia Roberts,Bob Hoskins Errors:  BadDurationException: invalid duration In file :Movies1991.csv At line :25
+l992,Unforgiven,131,Drama,R,8.3,Clint Eastwood,Clint Eastwood,Morgan Freeman,Frances Fisher Errors:  BadYearException: invalid year In file :Movies1992.csv At line :20
+1992,Batman Returns,126,Aktion,PG-13,7,Tim Burton,Michael Gough,Vincent Schiavelli,Andrew Bryniarski Errors:  BadGenreException: Genre is invalid In file :Movies1992.csv At line :26
+1992,Aladdin,90,Adventure,G,80,Ron Clements,Robin Williams,Frank Welker,Scott Weinger Errors:  BadScoreException: invalid score In file :Movies1992.csv At line :28
+1993,"BloodIn,BloodOut",330,Crime,R,8,TaylorHackford,DelroyLindo,JesseBorrego,RaymondCruz Errors:  BadDurationException: invalid duration In file :Movies1993.csv At line :6
+1993,Dazed and Confused,102,Comedy,RRR,7.7,Richard Linklater,Milla Jovovich,Adam Goldberg,Cole Hauser Errors:  BadRatingException: Invalid Rating In file :Movies1993.csv At line :7
+1993,Hocus Pocus,96,Comedy,PG,6.7,,Vinessa Shaw,Omri Katz,Larry Bagby Errors:  MissingFieldsException: Missing Name In file :Movies1993.csv At line :21
+1994,There Goes My Baby,99,Comedy,R,6.4,Floyd Mutrux,Ricky Schroder,,Seymour Cassel Errors:  MissingFieldsException: Missing Name In file :Movies1994.csv At line :0
+1994,Wyatt Earp,212,Adventure,PG-13,,Lawrence Kasdan,Dennis Quaid,Catherine O'Hara,Isabella Rossellini Errors:  MissingFieldsException: Score is missing In file :Movies1994.csv At line :15
+1994,Richie Rich,,Comedy,PG,5.2,Donald Petrie,Macaulay Culkin,John Larroquette,Jonathan Hyde Errors:  MissingFieldsException: Duration is missing In file :Movies1994.csv At line :19
+1996,Bound,109,Krime,R,,Lana Wachowski,Christopher Meloni,Kevin Michael Richardson,Peter Spellos Errors:  MissingFieldsException: Score is missing BadGenreException: Genre is invalid In file :Movies1996.csv At line :8
+l996,Bogus,110,Comedy,,5.3,Norman Jewison,Haley Joel Osment,Nancy Travis,Andrea Martin Errors:  BadYearException: invalid year MissingFieldsException: Rating is missing In file :Movies1996.csv At line :10
+-1996,The Fan,116,Action,R,,Tony Scott,Robert De Niro,Kurt Fuller,Ellen Barkin Errors:  BadYearException: invalid year MissingFieldsException: Score is missing In file :Movies1996.csv At line :27
+1996,Striptease,1170,Comedy,R,4.3,Andrew Bergman,Demi Moore,Rumer Willis,Paul Guilfoyle Errors:  BadDurationException: invalid duration In file :Movies1996.csv At line :44
+2996,Broken Arrow,900,Action,R,60,John Woo,Delroy Lindo,Samantha Mathis,Bob Gunton Errors:  BadYearException: invalid year BadDurationException: invalid duration BadScoreException: invalid score In file :Movies1996.csv At line :66
+1997,Chasing Amy,113,Comedy,R,7.3,Kevin Smith,Matt Damon,Ethan Suplee, Errors:  MissingFieldsException: There is some missing fields In file :Movies1997.csv At line :26
+1999,Crazy in Alabama,111,Komedy,PG-13,6.3,Antonio Banderas,Meat Loaf,,Noah Emmerich Errors:  MissingFieldsException: Missing Name BadGenreException: Genre is invalid In file :Movies1999.csv At line :12
+l999,A Dog of Flanders,,,PG,6.3,Kevin Brodie,Bruce McGill,Cheryl Ladd,Jack Warden Errors:  BadYearException: invalid year MissingFieldsException: Duration is missing MissingFieldsException: Genre is missing In file :Movies1999.csv At line :15
+2999,Foolish,384,Comedy,R,4.3,Dave Meyers,,Clifton Powell,Marla Gibbs Errors:  BadYearException: invalid year BadDurationException: invalid duration MissingFieldsException: Missing Name In file :Movies1999.csv At line :29
+1999,Snow Falling on Cedars,127,Druma,PG-13,6.8,Scott Hicks,Rick Yune,Reeve Carney,Daniel von Bargen Errors:  BadGenreException: Genre is invalid In file :Movies1999.csv At line :51
+1999,Random Hearts,133,Drama,RRR,5.1,Sydney Pollack,Harrison Ford,Kristin Scott Thomas,Bill Cobbs Errors:  BadRatingException: Invalid Rating In file :Movies1999.csv At line :79
+-1999,The Bone Collector,118,Crime,,6.7,Phillip Noyce,Denzel Washington,Angelina Jolie Pitt,Leland Orser Errors:  BadYearException: invalid year MissingFieldsException: Rating is missing In file :Movies1999.csv At line :102
+1999,The Thomas Crown Affair,113,Krime,R,6.8,John McTiernan,Mark Margolis,Faye Dunaway,Denis Leary Errors:  BadGenreException: Genre is invalid In file :Movies1999.csv At line :105
+1999,,102,Adventure,PG,7.3,Dean Parisot,Alan Rickman,Enrico Colantoni,Robin Sachs Errors:  MissingFieldsException: Missing title In file :Movies1999.csv At line :106
